@@ -43,7 +43,7 @@
         '{userName}のいいところは声です。{userName}の特徴的な声は云々',
         '{userName}のいいところは耳です。{userName}の特徴的なみみは云々',
         '{userName}のいいところは鼻です。{userName}の特徴的なハナは云々',
-        '{userName}のいいところはやさしさです。'
+        '{userName}のいいところはやさしさです。desu'
     ];
     function assessment(userName) {
         /**
